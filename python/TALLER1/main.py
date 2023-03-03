@@ -1,3 +1,0 @@
-"""
-by nicolas ordoñez 
-"""
